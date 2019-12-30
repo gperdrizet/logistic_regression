@@ -12,7 +12,7 @@
    "metadata": {},
    "source": [
     "1. LogisticRegression() gives following error:\n",
-    "<br><p><i>FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning. FutureWarning)</i></p><br>\n",
+    "<br><p>`FutureWarning: Default solver will be changed to 'lbfgs' in 0.22. Specify a solver to silence this warning. FutureWarning)`</p><br>\n",
     "Need to add LogisticRegression(solver='lbfgs')"
    ]
   },
